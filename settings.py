@@ -1,6 +1,6 @@
 # colour settings
-HIGHLIGHT_TEXT = "#866ec0"
-HIGHLIGHT_BG = "#d56f8f"
+HIGHLIGHT_TEXT = "#000000"
+HIGHLIGHT_BG = "#03AED2"
 
 # font settings
 ARIAL = "arial"
